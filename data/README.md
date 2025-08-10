@@ -10,7 +10,7 @@ Data is in `/data` as a ZIP file — one CSV per symbol, covering the last 5 yea
 ---
 
 ## 📥 Download
-[➡ **Latest Data ZIP**](./data)
+[➡ **Latest Data ZIP**](./)
 
 ---
 
