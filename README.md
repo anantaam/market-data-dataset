@@ -1,14 +1,27 @@
-# 📊 Market Data — NIFTY Total Market + NSE Indices (5Y EOD)
+#  Market Data — Automated, daily-updated NSE market data repository for traders, quants, and researchers.
+No scrapers, no stale files — just clean datasets ready to use.
 
-Daily updated End-Of-Day (EOD) data for:
+Features
+EOD Data (Last 5 Years)
 
-- **NIFTY Total Market** constituents (Equities)
-- **All NSE Indices** (`exchange = NSE`, `segment = INDICES`)
+All NSE equities from the NIFTY Total Market
+
+All NSE Indices
+
+Auto-updated daily at 6 PM IST
+
+IEOD Data (1-Minute, Last 60 Days)
+
+All NIFTY 100 constituents
+
+All NSE Indices 
+
+Updated daily at 6 PM IST
 
 Data is in `/data` as a ZIP file — one CSV per symbol, covering the last 5 years.
 
 ---
-## 📚 Tools & Resources I Recommend
+##  Tools & Resources I Recommend
 
 > These are affiliate links — I may earn a commission if you buy through them.
 
